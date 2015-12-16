@@ -19,7 +19,7 @@
 //input double MaximumRisk   =0.02;
 //input double DecreaseFactor=3;
 
-input double PercentRisk   = 0.5;
+input double PercentRisk   = 1.0;
 input double ManualLots    = 0.0;
 input int    StopLoss      = 50;
 input int    TrailingStop  = 0;
